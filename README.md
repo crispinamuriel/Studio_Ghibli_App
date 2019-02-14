@@ -1,6 +1,6 @@
 # Studio_Ghibli_App
 
-This is a movie review app using [the Studio Ghibli API](https://ghibliapi.herokuapp.com/)
+This is a movie review app using [the Studio Ghibli API](https://ghibliapi.herokuapp.com/).
 
 ## Features
 You may select a movie to display the title, release date, and a breif descrription. 
